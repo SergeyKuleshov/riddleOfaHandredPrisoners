@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners/issues"
   },
-  "homepage": "https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners#readme"
+  "homepage": "https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
