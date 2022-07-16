@@ -1,0 +1,20 @@
+{
+  "name": "riddleofahandredprisoners",
+  "version": "1.0.0",
+  "description": "Это проект посвященный \"Задаче о ста заключенных\". Коротко:  - 100 заключенных, пронумерованных от 0 до 99  - Их номера записаны на бумажках и случайным образом спрятаны в 100  коробках расставленных в комнате.  - Каждый заключенный может зайти в комнату 1 раз и попробовать найти свой  номер, открыв максимум 50 коробок.  - После этого заключенный должен закрыть все коробки и выйти, оставив все  так же, как было до его прихода. Общаться с другими заключенными он больше  не может.  - Если все 100 заключенных найдут свой номер, их отпустят. Если хотя бы  один не найдет, то всех казнят.  - Заключенные могут обсудить стратегию один раз - перед тем, как первый  из них зайдет в комнату с коробками.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners/issues"
+  },
+  "homepage": "https://github.com/SergeyKuleshov/riddleOfaHandredPrisoners#readme"
+}
